@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../src/main/factories/controllers/reset-password/index.ts"],"names":[],"mappings":";;;AAEA,4DAAqE;AACrE,2FAAkF;AAClF,2DAGsC;AAE/B,MAAM,2BAA2B,GAAG,GAAe,EAAE,CAC1D,qCAAuB,CAAC;IACtB,UAAU,EAAE,+DAA2B,EAAE;IACzC,kBAAkB,EAAE,mCAAwB,EAAE;IAC9C,cAAc,EAAE,+BAAoB,EAAE;CACvC,CAAC,CAAC;AALQ,QAAA,2BAA2B,+BAKnC"}

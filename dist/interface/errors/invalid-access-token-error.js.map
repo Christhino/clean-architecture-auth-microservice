@@ -1,1 +1,0 @@
-{"version":3,"file":"invalid-access-token-error.js","sourceRoot":"","sources":["../../../src/interface/errors/invalid-access-token-error.ts"],"names":[],"mappings":";;;AAAA,MAAa,uBAAwB,SAAQ,KAAK;IAChD;QACE,KAAK,CAAC,sBAAsB,CAAC,CAAC;QAC9B,IAAI,CAAC,IAAI,GAAG,yBAAyB,CAAC;IACxC,CAAC;CACF;AALD,0DAKC"}
