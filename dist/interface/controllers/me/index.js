@@ -12,6 +12,7 @@ const buildMeController = ({ loadAccountById }) => async (httpRequest) => {
         firstName: account.firstName,
         lastName: account.lastName,
         email: account.email,
+        roles: account.roles
     });
 };
 exports.meController = helpers_1.tryCatch(buildMeController);

@@ -13,6 +13,11 @@ const AccountSchema = new mongoose_1.Schema({
         required: true,
         trim: true,
     },
+    roles: {
+        type: String,
+        required: true,
+        trim: true,
+    },
     email: {
         type: String,
         trim: true,

@@ -57,16 +57,16 @@ npm test or yarn test
 
 // Request Body
 {
-  "firstName": "any_name",
-  "lastName": "any_name",
-  "email": "anyemail@mail.com",
-  "password": "any_password",
-  "passwordConfirmation": "any_password"
+  "firstName": "test",
+  "lastName": "test",
+  "email": "test@mail.com",
+  "password": "test",
+  "passwordConfirmation": "test"
 }
 
 // Response Body
 {
-  "accessToken": "any_access_token"
+  "accessToken": "access_token"
 }
 ```
 
@@ -83,13 +83,13 @@ npm test or yarn test
 
 // Request Body
 {
-  "email": "any_mail@mail.com",
-  "password": "any_password"
+  "email": "test@mail.com",
+  "password": "test"
 }
 
 // Response Body
 {
-  "accessToken": "any_access_token"
+  "accessToken": "access_token"
 }
 ```
 
@@ -108,9 +108,9 @@ npm test or yarn test
 // Response Body
 {
   "id": "any_id",
-  "firstName": "any_name",
-  "lastName": "any_name",
-  "email": "anyemail@mail.com"
+  "firstName": "test",
+  "lastName": "test",
+  "email": "test@mail.com"
 }
 ```
 
@@ -127,7 +127,7 @@ npm test or yarn test
 
 // Request Body
 {
-  "email": "any_mail@mail.com"
+  "email": "test@mail.com"
 }
 ```
 
@@ -144,7 +144,7 @@ npm test or yarn test
 
 // Request Body
 {
-  "email": "any_mail@mail.com",
+  "email": "test@mail.com",
   "accessToken": 092498,
   "password": "new_password"
 }

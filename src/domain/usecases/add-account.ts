@@ -8,6 +8,7 @@ export namespace AddAccount {
     lastName: string;
     email: string;
     password: string;
+    roles: string; 
   };
   export type Response = Promise<AccountModel>;
 }
