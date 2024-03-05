@@ -2,6 +2,7 @@ export type AccountModel = {
   id: string;
   firstName: string;
   lastName: string;
+  roles : string;
   email: string;
   password: string;
   accessToken?: string;

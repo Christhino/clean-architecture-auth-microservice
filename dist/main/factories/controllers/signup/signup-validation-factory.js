@@ -10,6 +10,7 @@ const makeSignupValidation = () => {
         'lastName',
         'email',
         'password',
+        'roles',
         'passwordConfirmation',
     ];
     for (const field of requiredFields) {

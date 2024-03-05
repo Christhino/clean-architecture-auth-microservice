@@ -17,6 +17,11 @@ const AccountSchema = new Schema<AccountDocument>(
       required: true,
       trim: true,
     },
+    roles :  {
+      type: String,
+      required: true,
+      trim: true,
+    },
     email: {
       type: String,
       trim: true,
